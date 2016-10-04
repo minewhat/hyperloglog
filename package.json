@@ -32,10 +32,10 @@
     "url": "https://github.com/optimizely/hyperloglog.git"
   },
   "dependencies": {
-    "murmurhash3": "0.2.x"
+    "murmurhash3": "0.3.5"
   },
   "devDependencies": {
-    "vows": "0.7.x"
+    "vows": "0.8.1"
   },
   "engines": {
     "node": ">= 0.10.x"
